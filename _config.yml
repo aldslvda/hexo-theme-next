@@ -401,7 +401,7 @@ codeblock:
     # Show text copy result.
     show_result: true
     # Available values: default | flat | mac
-    style: mac
+    style: flat
 
 # Enable "cheers" for archive page.
 cheers: true
